@@ -1,0 +1,8 @@
+[core]
+	editor = nvim
+[user]
+	name = "Ajay Karthikesan"
+	email = 
+	signingKey = 
+[init]
+	defaultBranch = main
