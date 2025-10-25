@@ -1,10 +1,13 @@
 [core]
 	editor = nvim
+
 [user]
 	name = "Ajay Karthikesan"
 	email = 113184147+ajayfoo@users.noreply.github.com
 	signingKey = 
+
 [commit]
 	gpgSign = true
+
 [init]
 	defaultBranch = main
